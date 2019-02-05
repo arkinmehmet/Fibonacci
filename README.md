@@ -7,7 +7,9 @@ You can change that value below, to find other results.
 n = 6      
 
 n1 = 0
+
 n2 = 1
+
 count = 0
 
 if n <= 0:
