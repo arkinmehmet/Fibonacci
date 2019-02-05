@@ -10,7 +10,7 @@ n2 = 1
 
 count = 0
 
-### check if the number of terms is valid
+check if the number of terms is valid
 
 if n <= 0:
    print("Please enter a positive integer")
