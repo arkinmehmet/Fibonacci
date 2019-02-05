@@ -5,7 +5,9 @@ n = 6      #(If you want you can take any input by user side using below besides
                   n = int(input("How many terms? "))
 
 n1 = 0
+
 n2 = 1
+
 count = 0
 
 ### check if the number of terms is valid
